@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning at **Microverse**.
 
+- 💬 Ask me about **React.js / Next.js / Vue.js / React Native / Node.js / NestJS / TypeScript / AWS / AI/ML**
+
 - 👯 I’m looking to collaborate on **a startup where I can learn from dynamic environments and challenges, or a big company where I can grow with teammates.**
 
 - 📫 How to reach me **josue.aguilar.wk@gmail.com**
