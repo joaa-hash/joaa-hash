@@ -3,11 +3,13 @@
 
 - 🔭 I’m currently open to new opportunities.
 
-- 🌱 I’m currently learning at **Microverse**.
+- 🌱 I’m currently learning **PHP**.
 
 - 💬 Ask me about **React.js / Next.js / Vue.js / React Native / Node.js / NestJS / TypeScript / AWS / AI/ML**
 
 - 👯 I’m looking to collaborate on **a startup where I can learn from dynamic environments and challenges, or a big company where I can grow with teammates.**
+
+- ⚡ Fun fact **I can't sleep because I love coding.**
 
 - 📫 How to reach me **josue.aguilar.wk@gmail.com**
 
