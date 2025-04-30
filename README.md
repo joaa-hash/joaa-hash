@@ -4,9 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joaa-hash&label=Profile%20views&color=0e75b6&style=flat" alt="diegogagan2587" /> </p>
 
+I’m a full-stack developer with over 10 years of experience across application layers, presentation layers, and databases. I specialize in both front-end and back-end development using modern web frameworks, and I’m passionate about continuous learning, clean architecture, and leading teams with best development practices.
+
+You can find my resume [here](https://portfolio-josue-acuna.vercel.app/files/Josue_Acuna_Resume.pdf).
+
 - 🔭 I’m currently open to new opportunities.
 
-- 🌱 I’m currently learning **PHP**.
+- 🌱 I’m currently working on **my personal project**.
 
 - 💬 Ask me about **React.js / Next.js / Vue.js / React Native / Node.js / NestJS / TypeScript / AWS / AI/ML**
 
@@ -14,7 +18,7 @@
 
 - ⚡ Fun fact **I can't sleep because I love coding.**
 
-- 📫 How to reach me **josue.aguilar.wk@gmail.com**
+- 📫 How to reach me **josue.aguilar.wk@gmail.com**, **https://portfolio-josue-acuna.vercel.app/contact**
 
 <h3>🚀 Languages and Tools I Use</h2>
 <p align="left">
